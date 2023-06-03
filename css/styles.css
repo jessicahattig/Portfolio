@@ -89,7 +89,7 @@ h1 {
   width: 100%;
 }
 
-/*interests.html */
+/*interests.html photos */
 .interests1 {
   height: 30%;
   width: 30%;
@@ -97,8 +97,8 @@ h1 {
   float: left;
 }
 .interests2 {
-  height: 30%;
-  width: 30%;
+  height: 25%;
+  width: 25%;
   image-rendering: auto;
   float: right;
 }
