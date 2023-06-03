@@ -13,7 +13,7 @@ img {
   height: 300px;
   width: 300px;
   image-rendering: auto;
-  float: left;
+  float: right;
 }
 
 .navbar ul {
@@ -25,7 +25,7 @@ img {
 }
 
 .navbar li {
-  float: right;
+  float: left;
 }
 
 .navbar li a {
@@ -48,11 +48,12 @@ img {
 
 .about p {
   color: #b8c1ec;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .about ul {
   color: #b8c1ec;
+  font-size: 25px;
 }
 
 .about ol {
