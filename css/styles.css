@@ -10,8 +10,8 @@ h1{
 }
 
 img {
-  height: 175px;
-  width: 175px;
+  height: 300px;
+  width: 300px;
   image-rendering: auto;
   float: left;
 }
@@ -25,7 +25,7 @@ img {
 }
 
 .navbar li {
-  float: left;
+  float: right;
 }
 
 .navbar li a {
