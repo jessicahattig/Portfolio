@@ -62,6 +62,10 @@ h1 {
   color: #b8c1ec;
 }
 
+.about ol li {
+  color: #b8c1ec;
+  font-size: 25px;
+}
 .projects {
   border: 10px solid #eebbc3;
   padding: 5px;
@@ -81,7 +85,20 @@ h1 {
 }
 
 .computer {
-  height: 50%;
-  width: 50%;
+  height: 250px;
+  width: 100%;
 }
 
+/*interests.html */
+.interests1 {
+  height: 30%;
+  width: 30%;
+  image-rendering: auto;
+  float: left;
+}
+.interests2 {
+  height: 30%;
+  width: 30%;
+  image-rendering: auto;
+  float: right;
+}
