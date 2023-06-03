@@ -17,11 +17,13 @@ img {
 }
 
 .about h3 {
+  font-size: 40px;
   color: #fffffe;
 }
 
 .about p {
   color: #b8c1ec;
+  font-size: 20px;
 }
 
 .about ul {
@@ -33,10 +35,19 @@ img {
 }
 
 .projects {
-  border: 5px solid #eebbc3;
-  padding: 10px;
+  border: 10px solid #eebbc3;
+  padding: 5px;
   background-color: #b8c1ec;
-  margin: 30px;
+  margin: 20px;
   box-sizing: border-box;
-  color: #121629
+  color: #232946;
+}
+
+
+.projects h3 {
+  font-size: 40px;
+}
+
+.projects ul {
+  font-size: 25px;
 }
