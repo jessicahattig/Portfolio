@@ -10,7 +10,7 @@ h1{
   background-image:url("https://images.pexels.com/photos/2797752/pexels-photo-2797752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 }
 
-img {
+.selfie {
   height: 300px;
   width: 300px;
   image-rendering: auto;
@@ -78,4 +78,10 @@ img {
 
 .projects ul {
   font-size: 25px;
+}
+
+.imgprojects {
+  margin: 0 auto;
+  height: 50%;
+  width: 50%;
 }
