@@ -2,4 +2,5 @@ img {
   height: 100px;
   width: 100px;
   image-rendering: auto;
+  float: left
 }
