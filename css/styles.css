@@ -3,10 +3,11 @@ body {
 }
 
 h1{
-  font-size: 65px;
+  font-size: 70px;
   text-align: center;
   font-family: 	Copperplate;
   color: #fffffe;
+  background-image:url("https://images.pexels.com/photos/2797752/pexels-photo-2797752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 }
 
 img {
@@ -34,9 +35,10 @@ img {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 25px;
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Change the link color on hover */
 .navbar li a:hover {
   background-color: #eebbc3;
 }
