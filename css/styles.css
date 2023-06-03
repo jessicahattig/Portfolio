@@ -1,7 +1,6 @@
 body {
   background-color: #232946;
 }
-
 h1 {
   font-size: 70px;
   text-align: center;
@@ -9,14 +8,6 @@ h1 {
   color: #fffffe;
   background-image:url("https://images.pexels.com/photos/2797752/pexels-photo-2797752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 }
-
-.selfie {
-  height: 300px;
-  width: 300px;
-  image-rendering: auto;
-  float: right;
-}
-
 .navbar ul {
   list-style-type: none;
   margin: 0;
@@ -24,11 +15,9 @@ h1 {
   overflow: hidden;
   background-color: #b8c1ec;
 }
-
 .navbar li {
   float: left;
 }
-
 .navbar li a {
   display: block;
   color: #232946;
@@ -37,35 +26,38 @@ h1 {
   text-decoration: none;
   font-size: 25px;
 }
-
-/* Change the link color on hover */
+/* Change the link color on navbar hover */
 .navbar li a:hover {
   background-color: #eebbc3;
 }
 /* index.html */
+.selfie {
+  height: 300px;
+  width: 300px;
+  image-rendering: auto;
+  float: right;
+}
+/* all html */
 .about h3 {
   font-size: 40px;
   color: #fffffe;
 }
-
 .about p {
   color: #b8c1ec;
   font-size: 25px;
 }
-
 .about ul {
   color: #b8c1ec;
   font-size: 25px;
 }
-
 .about ol {
   color: #b8c1ec;
 }
-
 .about ol li {
   color: #b8c1ec;
   font-size: 25px;
 }
+/* projects.html */
 .projects {
   border: 10px solid #eebbc3;
   padding: 5px;
@@ -74,21 +66,16 @@ h1 {
   box-sizing: border-box;
   color: #232946;
 }
-
-/* projects.html */
 .projects h3 {
   font-size: 40px;
 }
-
 .projects ul {
   font-size: 25px;
 }
-
 .computer {
   height: 250px;
   width: 100%;
 }
-
 /*interests.html photos */
 .interests1 {
   height: 30%;
@@ -103,19 +90,16 @@ h1 {
   float: right;
 }
 /*contact.html*/
-/* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
-  width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
-  border: 1px solid #ccc; /* Gray border */
-  border-radius: 4px; /* Rounded borders */
-  box-sizing: border-box; /* Make sure that padding and width stays in place */
-  margin-top: 6px; /* Add a top margin */
-  margin-bottom: 16px; /* Bottom margin */
-  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical 
 }
-
-/* Style the submit button with a specific background color etc */
 input[type=submit] {
   background-color: #04AA6D;
   color: white;
@@ -124,13 +108,10 @@ input[type=submit] {
   border-radius: 4px;
   cursor: pointer;
 }
-
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
   background-color: #45a049;
 }
-
-/* Add a background color and some padding around the form */
 .container {
   border-radius: 5px;
   background-color: #f2f2f2;
