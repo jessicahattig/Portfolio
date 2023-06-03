@@ -8,8 +8,9 @@ h1{
 }
 
 img {
-  height: 100px;
-  width: 100px;
+  height: 150px;
+  width: 150px;
   image-rendering: auto;
   float: left
 }
+
