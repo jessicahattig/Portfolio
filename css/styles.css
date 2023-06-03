@@ -22,7 +22,15 @@ img {
   color: #abd1c6;
 }
 
-.work {
+.about ul {
+  color: #abd1c6;
+}
+
+.about ol {
+  color: #abd1c6;
+}
+
+.projects {
   border: 2px solid #f9bc60;
   padding: 10px;
   background-color: #e8e4e6;
