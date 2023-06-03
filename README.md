@@ -2,7 +2,7 @@
 
 #### By _**Jessica Hattig**_
 
-#### _Epicodus, Week 1 & 2 Independent Project: Git, HTML, and CSS_
+#### _Epicodus, Week 1-2 Independent Project_
 
 ## Technologies Used
 
@@ -23,8 +23,6 @@ _This portfolio exhibits my proficiency in Git, HTML and CSS._
 * _Open the file "index.html" in your browser._
 
 [GitHub-Pages](https://jessicahattig.github.io/**NEED TO UPDATE PROJECT NAME**/)
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
