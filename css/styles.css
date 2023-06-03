@@ -2,7 +2,7 @@ body {
   background-color: #232946;
 }
 
-h1{
+h1 {
   font-size: 70px;
   text-align: center;
   font-family: 	Copperplate;
@@ -42,7 +42,7 @@ h1{
 .navbar li a:hover {
   background-color: #eebbc3;
 }
-
+/* index.html */
 .about h3 {
   font-size: 40px;
   color: #fffffe;
@@ -71,7 +71,7 @@ h1{
   color: #232946;
 }
 
-
+/* projects.html */
 .projects h3 {
   font-size: 40px;
 }
@@ -80,8 +80,8 @@ h1{
   font-size: 25px;
 }
 
-.imgprojects {
-  margin: 0 auto;
+.computer {
   height: 50%;
   width: 50%;
 }
+
