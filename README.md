@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _Portfolio_
 
-#### By _**{List of contributors}**_
+#### By _**Jessica Hattig**_
 
 #### _{Brief description of application}_
 
