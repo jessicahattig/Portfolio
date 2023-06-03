@@ -27,7 +27,7 @@ _This portfolio exhibits my proficiency in Git, HTML and CSS._
 
 ## Known Bugs
 
-* _No known bugs._
+* _Form on Contact tab currently does not submit message. I hope to make this a working form when I learn the necessary skills to submit forms._
 
 
 ## License
