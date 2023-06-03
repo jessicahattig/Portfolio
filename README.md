@@ -23,7 +23,7 @@ _This portfolio exhibits my proficiency in Git, HTML and CSS._
 * _Navigate to the directory titled "Portfolio"._
 * _Open the file "index.html" in your browser._
 
-[GitHub-Pages](https://jessicahattig.github.io/**NEED TO UPDATE PROJECT NAME**/)
+[GitHub-Pages](https://jessicahattig.github.io/portfolio/)
 
 ## Known Bugs
 
