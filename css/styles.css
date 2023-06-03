@@ -1,5 +1,5 @@
 body {
-  background-color: #004643;
+  background-color: #232946;
 }
 h1{
   font-size: 50px;
@@ -20,22 +20,22 @@ img {
 }
 
 .about p {
-  color: #abd1c6;
+  color: #b8c1ec;
 }
 
 .about ul {
-  color: #abd1c6;
+  color: #b8c1ec;
 }
 
 .about ol {
-  color: #abd1c6;
+  color: #b8c1ec;
 }
 
 .projects {
-  border: 5px solid #f9bc60;
+  border: 5px solid #eebbc3;
   padding: 10px;
-  background-color: #e8e4e6;
+  background-color: #b8c1ec;
   margin: 30px;
   box-sizing: border-box;
-  color: #004643
+  color: #121629
 }
