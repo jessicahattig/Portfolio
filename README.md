@@ -11,6 +11,7 @@
 * _VS Code_
 * _Githhub_
 * _Git_
+*_W3Schools_
 
 ## Description
 
